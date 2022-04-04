@@ -7,5 +7,5 @@
 - 💬 Ask me about Malware & Website Security.
 - 📫 How to reach me: https://twitter.com/riper81
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a :flag-ni: living in :flag-mx:
+- ⚡ Fun fact: I'm a 🇳🇮 living in 🇲🇽
 
