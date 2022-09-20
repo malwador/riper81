@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a 🇳🇮 living in 🇲🇽
 
-https://img.shields.io/badge/twitter/follow/:riper81?label=Follow
+![Twitter](https://img.shields.io/badge/twitter/follow/:riper81?label=Follow)
