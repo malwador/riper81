@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to collaborate on Malware, Yara Rules and Website Security.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Malware & Website Security.
+- 💬 Ask me about Cyber Security, Malware & Website Security.
 - 📫 How to reach me: https://twitter.com/riper81
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a 🇳🇮 living in 🇲🇽
-
-![Twitter](https://img.shields.io/badge/twitter/follow/riper81?label=Follow)
