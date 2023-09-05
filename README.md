@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working for https://github.com/kinsta/
 - ✍️ I'm blogging in https://wpmechanics.net & https://salrocks.com
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently obtaining my CISSP. 
 - 👯 I’m looking to collaborate on Malware, Yara Rules and Website Security.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Cyber Security, Malware & Website Security.
